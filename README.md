@@ -18,5 +18,5 @@ part 6 : Merge Training and test data with required variables(mean & std type) t
 Part7:adding activity labels to sensor data and dropping activity_id . 
 Part8:Converting to meaning ful and readable column names in sensor data
 Part 9: Assign the meaningful column names in Part 8 to sensor data column names 
-Part 10: Create a tidy data from sensor as requested with mean of each column by Subject  and Activity lables. Export this to a tab delimited text file "sensor_average_tidy.txt" 
+Part 10: Create a tidy data set from sensor data set as requested with mean of each column by Subject  and Activity lables. Export the tidy data set to a tab delimited text file "sensor_average_tidy.txt" 
 
